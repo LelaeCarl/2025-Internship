@@ -6,8 +6,8 @@ from time import sleep
 from urllib.parse import urljoin
 
 # Configuration parameters
-BASE_DOMAIN = 'https://www.biqu04.cc'
-START_URL = 'https://www.biqu04.cc/book/45850/1.html'
+BASE_DOMAIN = 'http://www.xbiqugu.la'
+START_URL = 'http://www.xbiqugu.la/9/9419/41359462.html'
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
     'Referer': BASE_DOMAIN
