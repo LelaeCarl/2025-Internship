@@ -41,13 +41,13 @@ for i in range(len(name_list)):
 with open('name.json', 'w', encoding='utf-8') as f:
     json.dump(universities, f, ensure_ascii=False, indent=4)
 
-print("数据已成功保存到 name.json")
+print("The data has been successfully saved to name.json")
 
 # 连接 MySQL 并创建数据库
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "846938042",
+    "password": "carl123",
     "charset": "utf8mb4"
 }
 
@@ -85,4 +85,4 @@ conn.commit()
 cursor.close()
 conn.close()
 
-print("数据已成功存入 MySQL 数据库！")
+print("The data has been successfully stored in the MySQL database!")

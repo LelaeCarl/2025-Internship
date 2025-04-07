@@ -10,7 +10,7 @@ from urllib.parse import urljoin
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': '846938042',
+    'password': 'sagemovie',
     'database': 'news',
     'charset': 'utf8mb4'
 }

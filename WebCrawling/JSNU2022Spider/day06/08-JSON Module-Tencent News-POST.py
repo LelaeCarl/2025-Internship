@@ -62,7 +62,7 @@ picList = [match.value for match in parse('$..pic_info.big_img').find(jsonObj)]
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': '846938042',
+    'password': 'sagemovie',
     'database': 'news',
     'charset': 'utf8mb4'
 }
