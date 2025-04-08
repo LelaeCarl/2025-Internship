@@ -47,7 +47,7 @@ print("The data has been successfully saved to name.json")
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "carl123",
+    "password": "sagemovie",
     "charset": "utf8mb4"
 }
 
